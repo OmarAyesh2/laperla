@@ -1,0 +1,6 @@
+{
+  "name": "La Perla Events - Luxury Wedding & Haute Scenography",
+  "description": "Bespoke wedding planning and luxury haute scenography atelier in Abdoun, Amman, featuring curated celebrations, iconic venue settings, and private consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
